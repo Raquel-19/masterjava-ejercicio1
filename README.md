@@ -1,7 +1,7 @@
 ## Java exercise from Java Advanced Master.
 
 ### Pre-requirements 📋
-This exercise is configured for SpringBoot and Jersey. Use design patterns FACTORY and FACADE. 
+This exercise is configured for SpringBoot and Jersey. It is a complete program that uses design patterns (facade and factory) and testing.
 
 ### Installation 🔧
 The project was carried out in IntelliJ IDEA and several plugins were added:
