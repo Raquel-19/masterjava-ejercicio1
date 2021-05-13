@@ -9,6 +9,9 @@ The project was carried out in IntelliJ IDEA and several plugins were added:
 + Spring Assistant.
 + SonarLint (optional).
 
+### Wiki 📖
+I recommend downloading the statement because it is a complex project. You can get it [here](https://mega.nz/file/1RUSwZbK#t3KMFRqYZjw4RLfzo4DsRsO58Sif5-86T7zarVwc7FA)
+
 ### About me! 👩🏾‍💻  
 
 Hi, I'm Raquel! I'm a Spanish junior developer who is always eager to learn new technologies. I am an optimistic person who loves challenges.
