@@ -9,6 +9,8 @@ The project was carried out in IntelliJ IDEA and several plugins were added:
 + Spring Assistant.
 + SonarLint (recommended).
 
+The external program Postman has also been used to check the requests.
+
 ### Wiki 📖
 I recommend downloading the statement because it is a complex project. You can get it [here](https://mega.nz/file/1RUSwZbK#t3KMFRqYZjw4RLfzo4DsRsO58Sif5-86T7zarVwc7FA)
 
