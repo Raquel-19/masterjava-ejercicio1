@@ -7,7 +7,7 @@ This exercise is configured for SpringBoot and Jersey. It is a complete program 
 The project was carried out in IntelliJ IDEA and several plugins were added:
 + Design Patterns IntelliJ IDEA Plugin.
 + Spring Assistant.
-+ SonarLint (optional).
++ SonarLint (recommended).
 
 ### Wiki 📖
 I recommend downloading the statement because it is a complex project. You can get it [here](https://mega.nz/file/1RUSwZbK#t3KMFRqYZjw4RLfzo4DsRsO58Sif5-86T7zarVwc7FA)
